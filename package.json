@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-20201118",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon index1.js"   
+    },
+
+
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
